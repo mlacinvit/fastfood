@@ -1,0 +1,17 @@
+.imgP {
+    width: 300px;
+    height: 220px;
+    cursor: pointer;
+    position: relative;
+    margin: 10px;
+}
+
+.sP {
+    margin-left: 10px;
+    color: white;
+}
+
+.boxes {
+    cursor: pointer;
+    text-align: center;
+}

@@ -1,0 +1,18 @@
+.one, .two {
+    box-shadow: 0 0 10px white;
+    padding: 20px;
+    margin: 20px;
+}
+
+.one {
+    width: 80%;
+}
+
+.two {
+    width: 20%;
+    color: white;
+}
+
+.allBox {
+    display: flex;
+}
